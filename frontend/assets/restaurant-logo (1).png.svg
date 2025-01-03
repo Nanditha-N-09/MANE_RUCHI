@@ -1,0 +1,49 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Home outline with roof -->
+  <path d="M200 50 L300 130 L300 250 L100 250 L100 130 Z" 
+        fill="none" 
+        stroke="#FF6B6B" 
+        stroke-width="8"/>
+  
+  <!-- Chimney with steam swirls -->
+  <path d="M260 80 L260 50" 
+        stroke="#FF6B6B" 
+        stroke-width="8"/>
+  <path d="M255 45 Q265 35, 255 25" 
+        fill="none" 
+        stroke="#FF6B6B" 
+        stroke-width="3"/>
+  <path d="M265 40 Q275 30, 265 20" 
+        fill="none" 
+        stroke="#FF6B6B" 
+        stroke-width="3"/>
+  
+  <!-- Spoon and fork forming a heart -->
+  <path d="M170 140 Q200 180, 230 140" 
+        fill="none" 
+        stroke="#2EC4B6" 
+        stroke-width="8" 
+        stroke-linecap="round"/>
+  <path d="M180 130 L180 170" 
+        stroke="#2EC4B6" 
+        stroke-width="8" 
+        stroke-linecap="round"/>
+  <path d="M220 130 L220 170" 
+        stroke="#2EC4B6" 
+        stroke-width="8" 
+        stroke-linecap="round"/>
+  
+  <!-- Text elements -->
+  <text x="200" y="220" 
+        font-family="Arial" 
+        font-size="28" 
+        fill="#333333" 
+        text-anchor="middle" 
+        font-weight="bold">RUCHI MANE</text>
+  
+  <text x="200" y="245" 
+        font-family="Arial" 
+        font-size="20" 
+        fill="#333333" 
+        text-anchor="middle">KITCHEN</text>
+</svg>
